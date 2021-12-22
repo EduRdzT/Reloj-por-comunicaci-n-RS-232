@@ -69,8 +69,12 @@ Algunas de sus características son:
 - Programación ICSP vía dos pines.
 - Tiene 40 pines
 
+![Arquitectura ALU](/Img/Imagen1.png)
+
 #### Biblioteca ioUSBUS.
 En esta práctica se ocupó la biblioteca ioUSBUS, la cual nos ayuda a leer y a escribir a los dispositivos. Esta biblioteca nos brinda las siguientes funciones:
+
+![Arquitectura ALU](/Img/Imagen2.png)
 
 #### Transistores.
 #### Matriz de leds de 8x8.
@@ -84,9 +88,13 @@ El mismo hardware usado en la práctica 1 y el mismo software de la practica 4.
 
 Objetivo 2: Hardware<a name="id4-2"></a>
 
+![Arquitectura ALU](/Img/Imagen3.png)
+
 _Figura 1. Circuito de la practica 5_
 
 Para esta práctica se utilizó el mismo hardware de la práctica anterior (Figura 1) solo que en igual de conectar él envió de datos a los leds se conectó un dispositivo a la matriz de leds y el otro a los transistores.
+
+![Arquitectura ALU](/Img/Imagen4.png)
 
 _Figura 2. Circuito de multiplexación._
 
@@ -97,6 +105,8 @@ Objetivo 3: Software, crear un programa para el IDE visual studio (VC).<a name="
 Realizar un proyecto en VC VS2010 para probar las funciones descritas en el documento.
 
 La solución propuesta para este objetivo se muestra en el siguiente diagrama de flujo.
+
+![Arquitectura ALU](/Img/Imagen5.png)
 
 El código desarrollado a partir del diagrama de flujo anterior se muestra en el anexo 1.
 
